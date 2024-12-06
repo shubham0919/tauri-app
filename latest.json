@@ -1,0 +1,28 @@
+
+{
+  "version": "v1.0.1",
+  "notes": "Test version",
+  "pub_date": "2024-01-17T00:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEY4MENBM0NDNzAzMzBGNzQKUldSMER6Tnd6S01NK0FwbkhGTE4yM0RmWk01YVRlVkZaSG1XanpPQzF4ZU1xQklYM2JycGE3NkYK",
+      "url": "https://github.com/shubham0919/tauri-app/releases/download/v1.0.0/app-aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEY4MENBM0NDNzAzMzBGNzQKUldSMER6Tnd6S01NK0FwbkhGTE4yM0RmWk01YVRlVkZaSG1XanpPQzF4ZU1xQklYM2JycGE3NkYK",
+      "url": "https://github.com/shubham0919/tauri-app/releases/download/v1.0.0/app-x86_64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEY4MENBM0NDNzAzMzBGNzQKUldSMER6Tnd6S01NK0FwbkhGTE4yM0RmWk01YVRlVkZaSG1XanpPQzF4ZU1xQklYM2JycGE3NkYK",
+      "url": "https://github.com/shubham0919/tauri-app/releases/download/v1.0.0/app.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEY4MENBM0NDNzAzMzBGNzQKUldSMER6Tnd6S01NK0FwbkhGTE4yM0RmWk01YVRlVkZaSG1XanpPQzF4ZU1xQklYM2JycGE3NkYK",
+      "url": "https://github.com/shubham0919/tauri-app/releases/download/v1.0.0/app.x64.msi.zip"
+    },
+    "windows-i686": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEY4MENBM0NDNzAzMzBGNzQKUldSMER6Tnd6S01NK0FwbkhGTE4yM0RmWk01YVRlVkZaSG1XanpPQzF4ZU1xQklYM2JycGE3NkYK",
+      "url": "https://github.com/shubham0919/tauri-app/releases/download/v1.0.0/app.x86.msi.zip"
+    }
+  }
+}
